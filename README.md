@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a final-year B.Tech Computer Science student from Ujjain, Madhya Pradesh, with a strong passion for Data Analysis and turning raw numbers into meaningful insights.<br> <br>My academic foundation in Mathematics and Statistics drives my curiosity for data — I enjoy finding patterns, building visualizations, and asking the right questions from datasets.<br> <br>Currently, I am actively building my skills in Python, SQL, Pandas, Excel, and Power BI, while working on real-world data projects to strengthen my portfolio.<br> <br>I am actively seeking Data Analyst internship opportunities where I can contribute, learn from industry professionals, and grow into a data-driven professional.<br> <br>📌 Open to: Data Analyst Internships | Remote & On-site | Immediate Joiner
+I am B.tech Computer Science Engineering 4th year student passionate about Data Engineering and building data-driven solutions. Skilled in SQL, Python, and AWS Currently learning ETL, Data Warehousing, and Cloud Technologies while working on projects and continuously improving my technical skills.
+Open to internships and entry-level Data Engineering opportunities.
 
 
 ## 🌐 Socials:
