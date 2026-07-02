@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am B.tech Computer Science Engineering 4th year student passionate about Data Engineering and building data-driven solutions. Skilled in SQL, Python, and AWS Currently learning ETL, Data Warehousing, and Cloud Technologies while working on projects and continuously improving my technical skills.
+Aspiring Data Engineer with strong knowledge of SQL, Python, ETL pipelines, Data Warehousing, and Cloud Technologies. Hands-on experience building end-to-end data engineering projects using Azure Data Factory and Apache Kafka. Passionate about designing scalable data solutions and transforming raw data into actionable insights.
 Open to internships and entry-level Data Engineering opportunities.
 
 
