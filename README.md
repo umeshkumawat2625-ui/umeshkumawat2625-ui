@@ -1,6 +1,7 @@
-# 💫 About Me:
-Aspiring Data Engineer with strong knowledge of SQL, Python, ETL pipelines, Data Warehousing, and Cloud Technologies. Hands-on experience building end-to-end data engineering projects using Azure Data Factory and Apache Kafka. Passionate about designing scalable data solutions and transforming raw data into actionable insights.
-Open to internships and entry-level Data Engineering opportunities.
+ # 💫 About Me:
+B.Tech Computer Science student passionate about Software Engineering, Python, and Problem Solving. Skilled in Data Structures & Algorithms, SQL, OOP, DBMS, Operating Systems, and Computer Networks.
+I enjoy building software projects, learning new technologies, and solving real-world problems through code. Currently focused on strengthening my software development skills and seeking Software Engineer internship and entry-level opportunities.
+Python | DSA | SQL | Git & GitHub | Software Development
 
 
 ## 🌐 Socials:
