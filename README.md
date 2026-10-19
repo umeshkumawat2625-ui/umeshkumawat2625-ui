@@ -1,7 +1,5 @@
  # 💫 About Me:
-B.Tech Computer Science student passionate about Software Engineering, Python, and Problem Solving. Skilled in Data Structures & Algorithms, SQL, OOP, DBMS, Operating Systems, and Computer Networks.
-I enjoy building software projects, learning new technologies, and solving real-world problems through code. Currently focused on strengthening my software development skills and seeking Software Engineer internship and entry-level opportunities.
-Python | DSA | SQL | Git & GitHub | Software Development
+Data Analyst Intern at Nabhovid software solutions, skilled in SQL, Excel, Python, Pandas, and Power BI. Experienced in data cleaning, analysis, visualization, and dashboard development. Passionate about turning data into meaningful insights and solving real-world business problems.
 
 
 ## 🌐 Socials:
